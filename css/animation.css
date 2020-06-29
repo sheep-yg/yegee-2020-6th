@@ -1,0 +1,14 @@
+	@keyframes up-down { 0% {top: 100px; } 95% {top: 1500px;} 100% {top:1500px;}}
+		@keyframes up-down2 { 0% {top: 100px; } 95% {top: 300px;} 100% {top:300px;}}
+		@keyframes ddd { 0% {transform:rotate(0deg); } 100% {transform:rotate(40deg);} }
+		@keyframes clock { 10% {transform:rotate(0deg);} 90% {transform:rotate(360deg)} 100% {transform:rotate(360deg);} }
+		@keyframes rotate {0% {transform: rotate(0deg);} 30% {transform:rotate(0deg);} 31% {transform: rotate(20deg);} 60% {transform: rotate(20deg);} 61% {transform:rotate(-20deg);} 100% {transform:rotate(-20deg);} }
+		@keyframes rotate2 {0% {transform: rotate(0deg);} 30% {transform:rotate(0deg);} 31% {transform: rotate(20deg);} 60% {transform: rotate(20deg);} 61% {transform:rotate(-10deg);}85% {transform:rotate(-10deg);} 86% {transform:rotate(10deg);}100% {transform:rotate(10deg);} }
+		@keyframes go { 0% {left: 900px; transform: rotate(-12deg);} 100% {top: 1500px; left: 500px;transform: rotate(0deg);}}
+		@keyframes go-2 { 0% {top: -200; left: 900px; transform: rotate(0deg);} 100% {top: 1000px; left: 800px;transform: rotate(0deg);}}
+		@keyframes go-3 { 0% {top: -400px; left: -300px; transform: rotate(0deg);} 100% {top: -200px; left: -50px;transform: rotate(5deg);}}
+		@keyframes go-4 { 0% {top: 900px; left: -300px; transform: rotate(0deg);} 100% {top: 1200px; left: -50px;transform: rotate(5deg);}}
+		@keyframes go-5 { 0% {top: 900px; right: 100px; transform: rotate(0deg);} 100% {top: 1100px; right: -50px;transform: rotate(10deg);}}
+		@keyframes opa { 0% {opacity: 0%; } 100% {opacity: 30%;} }
+		@keyframes opa2 { 0% {opacity: 0%; } 50% {opacity: 0%;} 100% {opacity: 100%;} }
+

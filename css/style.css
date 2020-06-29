@@ -1,0 +1,131 @@
+		html, body, section, footer {margin: 0; margin: auto;}
+		html {scroll-behavior: smooth;}
+		img {display: block;width: 100%}
+		body {font-family: 'KoPub Batang', serif;}
+
+		h1{font-family: 'Homemade Apple', cursive; font-size: 5em; margin:0; word-spacing: 30px} 
+		p{font-family: 'KoPub Batang', serif; font-size: 1.5em; word-spacing: -1px; letter-spacing: -1px; line-height: 40px; padding-bottom: 20px;}
+		header {position: relative;}
+
+		.pad {padding-top: 700px;}
+		.pad2 {padding-top:300px;}
+		.pad3 {padding-top:150px;}
+		.pad4 {padding-top: 100px;}
+		.wnd {text-align: center;}
+		.wnd2 {display: table; margin-left: auto; margin-right: auto}
+		.right-text {text-align: right;}
+		.itv {font-size: 2rem; line-height: 50px; margin: 0;}	
+
+		.right-p1 {position: absolute;left: 800px;} 
+		.left-p1 {margin-left: 250px;}
+		.left-p2 {margin-left: 350px;}
+		.left-p3 {margin-left: 300px;}
+
+
+
+		/* 김예림 */
+		h2,h3 {font-family: 'KoPub Batang', serif;font-size: 4em; font-weight: 600;}
+		h3{ font-size: 3em;}
+
+		.dpfla-b1 {position: relative; left: 250px;}
+		.dpfla-1 {position: absolute; width: 600px; z-index: 1; top: 0px; left: 550px;}
+
+		.dpfla-b2 {position: relative;}
+		.dpfla-2 {position: relative; top: -600px;}
+
+
+		.dpfla-ro {position: relative;}
+		.dpfla-ro1 {position:absolute; top: -300px;}
+		.dpfla-ro2 {position: absolute; left: 1000px;top:300px;}
+		.ro-img {position: absolute; top: 900px; left:50px; width: 55%; animation: ddd 4s alternate infinite;}
+
+
+		.dpfla-num {position: relative;}
+		.num1 {position: absolute; top: -3300px;}
+		.num1-2 {position: absolute; width: 30%; right: -300px; top: 300px; animation: go-2 2s alternate infinite; z-index: 3;}
+		.num2 {position: absolute; top: 1150px; left: 350px}
+
+
+		.dpfla-g20 {position: relative; top: -300px;}
+		.vl-g20 {position: absolute; width: 18%; top: 1000px; animation: up-down 4s alternate 1s infinite; cubic-bezier:cubic-bezier(.56,.04,.59,.78);}
+		.vr-g20 {position: absolute; width: 40%; right: 0px; top: 600px; animation: up-down 6s alternate 0.5s infinite; cubic-bezier:cubic-bezier(.48,-0.05,.88,.62);}
+		.g20-1 {position: absolute; width: 55%; top: 1500px;right: -40px; animation:rotate 5s alternate infinite; }
+		.g20-3 {position: relative; width: 90%; top: -100px; z-index: 5;}
+		.g20-2 {position: relative; width: 30%; top: -1250px; left: 300px; animation: rotate2 3s alternate infinite; cubic-bezier:cubic-bezier(.17,.67,1,.2);}
+		.right-p3 {position: absolute; right: 170px}
+		.dpfla-g20 .right-p3 {top: 2850px;}
+
+
+
+		/* 반전 */
+		.qkswjs-b {position: relative; z-index: 3;}
+		.qkswjs {position: absolute; top: -1050px}
+		.qkswjs2 {position: relative; top: 200px}
+
+
+		/* 림킴 */
+		h4, h5{font-family: 'East Sea Dokdo', cursive; font-size: 8em;color:white; margin-bottom: 50px; }
+		h5 {font-size: 6rem;}
+		h6 {font-size: 3.7rem;}
+		.white {color:white;}
+		.flazla-b {position: relative;}
+		.flazla1 {position: absolute; width: 35%; left:600px; top: 750px; }
+
+		.tkfrl, .tkfrl2 {position: relative; z-index: 3;}
+		.tkfrl .left-p2 {position: relative; top: -50px}
+		.tkfrl-1 {position: relative;}
+		.tkfrl-2 {position: absolute; top: 650px;}
+		.tkfrl-3 {position: absolute; width: 42%; top: 1100px; right: 100px; z-index: 3;}
+		.tkfrl-4 {position: absolute; width: 15%; top: 1210px; right: 70px; animation: go 3s alternate infinite; cubic-bezier:cubic-bezier(0,1.21,1,-0.43);}
+		.tkfrl2 {top: -600px;}
+		.tkfrl-t1 {opacity: 50%; margin-left:280px; padding-top: 200px; animation: opa 5s alternate infinite;}
+		.tkfrl-t2 {position: absolute; top: 280px; left: 380px}
+		.ehdtkd {position: absolute;top: 0px; right: 0px; top: -300px; width: 90%}
+		.ghktkfvy {position: absolute;top: 850px; right: 120px; width:20%; animation: go-5 2s alternate infinite; cubic-bezier:cubic-bezier(.07,.73,.51,.92);}
+		.wjsxnrl {position: relative; width: 45%; left: -200px; top: 950px; animation: go-4 5s infinite;}
+		.tjs {position: relative; top: -220px; z-index: 1;}
+
+
+		.yellow, .yellow-2 {position: relative;}
+		.yl-1 {position: absolute; width: 40%; right: 0px; top: 10px;}
+		#yl {width: 1120px; height: 630px;  margin-top:200px; padding-top: 185px}
+		.yl-2 {position:absolute; width: 30%; right: 0px; top: 850px; animation: rotate 1s alternate infinite;}
+		.yl-3 {position: relative; width: 40%; left: 0; top: -140px; animation: go-3 4s alternate infinite; }
+		.yl-4 {position: absolute; top: 1550px;width: 1650px; z-index: 3;}
+		.yl-5 {position: absolute; width:40%;top: 2200px; right:0px;}
+
+
+		.yellow-2 img {padding-top: 350px}
+		.yellow-2 .right-p3 {top: 250px}
+
+
+		.yellow-3 {position: absolute; width:
+			1650px; top: 1700px;}
+		.yellow-3 h6 {margin: 15px; color:#FFCD12; }
+		.yl-6 {position: relative; top: 250px; }
+		.yl-7 {position: absolute; width:110%; top: 0px; left: -70px; }
+
+		/* 끝 */
+		.end {position: relative;}
+		.end1 {position: absolute; top: -200px;}
+		.ref {position: relative; top: -100px}
+		.ref p {line-height: 40px; font-size: 1rem}
+		.ref h6 {font-size:3rem; margin-bottom: 100px;}
+		.akwlakr {background: #e0e1e3; width: 100%;height: 800px; position: absolute; top: 1000px; z-index: -1;}
+
+		footer {background: #e0e1e3; padding-bottom: 150px; position: relative;}
+		footer p {margin: 0; font-size: 1rem; }
+		footer h6 {margin: 0px; font-size: 2rem}
+		.vnxj1 {position: absolute; width: 20%; top: -200px; left: 100px; transform: rotate(90deg); }
+		.vnxj2 {position: absolute; width: 40%; top: -53px; right: 0px;} 
+
+		footer a {color: black; text-decoration: none;}
+		footer a:hover {color: #FFCD12; transition-duration: .5s; background-color: black;}
+
+
+		nav img{width: 70px; display: block;}
+		nav {position: sticky; top: 190px;
+			z-index: 200; width: 100px; }
+		li {list-style-type: none;margin-top: 30px;position: relative; text-align: center;width: 70px;   color: #FFCD12; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+		.top a {text-decoration-line: none; color: black; width:40px; height: 80px; border-radius: 50%; background-color: white;text-shadow: none; padding:15px 10px; }
+		.top a:hover {background-color: #FFCD12; transition-duration: .2s; }
